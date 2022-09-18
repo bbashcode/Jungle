@@ -12,6 +12,9 @@
 /.bundle
 /vendor/bundle
 
+#Ignore DS_Store
+.DS_Store
+
 # Ignore db creds / settings
 /config/database.yml
 
